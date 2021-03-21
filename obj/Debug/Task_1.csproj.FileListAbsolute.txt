@@ -1,0 +1,30 @@
+C:\Users\Ксения Бакина\source\repos\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Ксения Бакина\source\repos\Task_1\bin\Debug\Task_1.exe
+C:\Users\Ксения Бакина\source\repos\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.exe
+C:\Users\Ксения Бакина\source\repos\Task_1\obj\Debug\Task_1.pdb
+C:\Users\skytt\Desktop\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\skytt\Desktop\Task_1\bin\Debug\Task_1.exe
+C:\Users\skytt\Desktop\Task_1\bin\Debug\Task_1.pdb
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.exe
+C:\Users\skytt\Desktop\Task_1\obj\Debug\Task_1.pdb
+C:\Users\Ксения Бакина\Desktop\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Ксения Бакина\Desktop\Task_1\bin\Debug\Task_1.exe
+C:\Users\Ксения Бакина\Desktop\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.Form1.resources
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.exe
+C:\Users\Ксения Бакина\Desktop\Task_1\obj\Debug\Task_1.pdb
